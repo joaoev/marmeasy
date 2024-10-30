@@ -4,13 +4,9 @@
 
 Aqui descrição do projeto
 
----
-
 ### Funcionalidades ✨
 
 - **Funcionalidade 01**: Descrição da funcionalidade
-
----
 
 ### Tecnologias Utilizadas 🛠️
 
@@ -18,8 +14,6 @@ Aqui descrição do projeto
 - **Banco de Dados**: 
 - **Frontend**: 
 - **Estilo**: 
-
----
 
 ### Como Executar o Projeto 🚀
 
@@ -32,21 +26,13 @@ Aqui descrição do projeto
 
 2. **Passo 2**:
 
----
-
 ### Contribuição 🤝
-
----
 
 ### Licença 📄
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
 ### Próximas Melhorias 📈
 
 - Melhoria
-
----
 
 Feito com : : @
